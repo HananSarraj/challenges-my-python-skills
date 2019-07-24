@@ -3,5 +3,5 @@ these are some python challenges i found on the internet and i wanted to try doi
 
 
 ## Installation 
-  *Python 3.7
+  **Python 3.7
   
